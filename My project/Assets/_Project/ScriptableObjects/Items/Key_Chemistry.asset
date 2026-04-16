@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: afcf28c56f8adfe4dbe60372a746e8a9, type: 3}
+  m_Name: Key_Chemistry
+  m_EditorClassIdentifier: Assembly-CSharp::InventoryItem
+  itemID: key_chemistry
+  itemName: 'Chemistry Lab Key '
+  description: Rusted brass key...
+  icon: {fileID: 0}
+  worldPrefab: {fileID: 0}
+  isPersistent: 1
